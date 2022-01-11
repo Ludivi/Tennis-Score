@@ -1,4 +1,4 @@
-# 7150626-Gerez-letat-de-votre-app-avec-Redux
+Node/React/Redux
 
 Pour lancer l'application:
 
